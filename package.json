@@ -1,0 +1,22 @@
+{
+  "name": "maquetacion-de-diseno-peliculas",
+  "version": "1.0.0",
+  "description": "proyecto_personal",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunotrix/maquetacion-de-diseno-peliculas.git"
+  },
+  "keywords": [
+    "diseño-api"
+  ],
+  "author": "bruno-salinas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brunotrix/maquetacion-de-diseno-peliculas/issues"
+  },
+  "homepage": "https://github.com/Brunotrix/maquetacion-de-diseno-peliculas#readme"
+}
